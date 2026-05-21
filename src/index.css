@@ -1,16 +1,6 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: "Helvetica Neue", Arial, sans-serif;
-  --font-heading: "Helvetica Neue", Arial, sans-serif;
 
-  /* Light, calming hospital palette */
-  --color-brand-navy: #f0f6ff;
-  --color-brand-charcoal: #ffffff;
-  --color-brand-blue: #1a6fc4;
-  --color-brand-orange: #e05c1a;
-  --color-brand-gold: #c08a00;
-}
 
 /* ─── Base ─────────────────────────────────────── */
 body {
